@@ -34,29 +34,29 @@
 ### :two:数据的地图可视化和交互功能部分
 - 交互设计与交互可视化
 >通过世界地图全球孕妇死亡数（每10万）时间线播放图展现2011-2017年全球孕产妇死亡情况，间接反映出全球的穷国和富国的差距，孕产妇死亡数高的地区主要集中在非洲撒哈拉以南的低收入国家。
-![地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/map1.PNG)
+![地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/map1.PNG)
 
 >通过世界地图全球各国孕产妇在熟练医护人员护理下的分娩率时间线播放图展现2011-2017年反映了全球各国孕产妇分娩是接受的熟练护理率很大程度也跟地区经济发展有关，接受率低的地区主要集中在非洲撒哈拉以南。
-![地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/map2.PNG)
+![地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/map2.PNG))
 
 
 >通过世界地图全球各国青春期生育数时间线播放图展现2011-2017年在全球各国青春期怀孕率的高低也是孕产妇死亡率高的重要原因，并且也与地区经济发展有关，青春期生育率高的地区主要集中在非洲撒哈拉以南。
-![地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/map3.PNG)
+![地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/map3.PNG))
 
 ### :three:数据的非地图可视化和交互功能部分
 - 交互设计与交互可视化
 >通过非地图的全球各国按地区分类的条形图看出孕妇接受熟练护理率低的主要集中在非洲地区，收入越高的地区孕产妇接受熟练护理率就越高。
-![非地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/%E6%8A%A4%E7%90%86%E5%9C%B0%E5%8C%BA.PNG)
+![非地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/%E6%8A%A4%E7%90%86%E5%9C%B0%E5%8C%BA.PNG)
 
 
 >通过全球按地区分类的地区孕妇死亡数和青春期怀孕率的玫瑰图看出，各国青春期怀孕率的高低也是孕产妇死亡率高的重要原因，并且与地区经济发展有关，主要集中在非洲的撒哈拉以南地区。
-![地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%8C%BA.PNG)
+![非地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/%E6%AD%BB%E4%BA%A1%E5%9C%B0%E5%8C%BA.PNG)
 
 
 >通过非地图的全球各国按收入分类的条形图看出孕妇接受熟练护理率与地区收入成正比。
-![非地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/%E6%8A%A4%E7%90%86%E6%94%B6%E5%85%A5.PNG)
+![非地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/%E6%8A%A4%E7%90%86%E6%94%B6%E5%85%A5.PNG)
 
 >通过全球按收入分类的地区孕妇死亡数和青春期怀孕率的玫瑰图看出，各国青春期怀孕率的高低也是孕产妇死亡率高的重要原因，并且与各国经济发展有关，主要集中低收入国家。
-![非地图](https://gitee.com/hukaif/Visualization_DataStory/raw/master/img/%E6%AD%BB%E4%BA%A1%E6%94%B6%E5%85%A5.PNG)
+![非地图](https://github.com/kaifengace/Visualization_DataStory/raw/master/img/%E6%AD%BB%E4%BA%A1%E6%94%B6%E5%85%A5.PNG)
 
 
