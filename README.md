@@ -1,6 +1,8 @@
 
 ## :fire: 项目名称：交互数据可视化 :fire:
-## :star2: [项目展示地址](http://hukaif.gitee.io/visualization_datastory/)
+## :star2: [项目展示地址：http://hukaif.gitee.io/visualization_datastory/](http://hukaif.gitee.io/visualization_datastory/)
+##         [项目部署地址：http://jimgitc.pythonanywhere.com/](http://jimgitc.pythonanywhere.com/) 
+
 ## ::star2: 项目目的：
 
 - 世卫组织正在努力减少孕产妇死亡率，采取的手段是提供基于证据的临床和规划指导，制定全球标准，以及为会员国提供技术支持。此外，世卫组织提倡收费低廉且有效的治疗方法，设计了卫生工作者培训材料和指导方针，支持各国实施政策和规划并监测进展情况。 在2010年9月联合国千年发展目标首脑会议期间，联合国秘书长潘基文发起了一项《促进妇女儿童健康全球战略》，目的是在今后四年挽救1600多万妇女儿童的生命。世卫组织正在与合作伙伴一道致力于实现这一目标。
