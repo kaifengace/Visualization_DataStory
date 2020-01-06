@@ -1,7 +1,7 @@
 
 ## :fire: 项目名称：交互数据可视化 :fire:
 ## :star2: [项目展示地址：http://hukaif.gitee.io/visualization_datastory/](http://hukaif.gitee.io/visualization_datastory/)
-##         [项目部署地址：http://jimgitc.pythonanywhere.com/](http://jimgitc.pythonanywhere.com/) 
+## :star2: [项目部署地址：http://jimgitc.pythonanywhere.com/](http://jimgitc.pythonanywhere.com/) 
 
 ## ::star2: 项目目的：
 
