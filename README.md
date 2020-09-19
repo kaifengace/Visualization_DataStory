@@ -1,7 +1,7 @@
 
 ## :fire: 项目名称：交互数据可视化 :fire:
 ## :star2: [项目展示地址：http://hukaif.gitee.io/visualization_datastory/](http://hukaif.gitee.io/visualization_datastory/)
-## :star2: [项目部署地址：http://jimgitc.pythonanywhere.com/](http://jimgitc.pythonanywhere.com/) 【 无效】
+## :star2: [项目部署地址：http://jimgitc.pythonanywhere.com/](http://jimgitc.pythonanywhere.com/) 【已无效】
 ##### ps: 由于18级的小组成员未能将网页部署成功，所以我的项目只能在据jupyter notebook展示，其中包含完整的代码与数据故事，入口在上面【项目展示地址】，出现此特殊状况故作此声明，给各位老师和同学浏览项目等带来不便本人深表歉意。
 
 ## ::star2: 项目目的：
